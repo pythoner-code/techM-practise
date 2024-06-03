@@ -1,0 +1,7 @@
+Learning Outcomes:
+
+Learn about Java classes 
+Learn about container class in java
+Learn about ArrayList data structure in java
+Learn about constructor 
+Learn about access modifiers
